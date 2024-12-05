@@ -1,1 +1,3 @@
-﻿I am a genius
+I am a genius
+
+To be commit and push using bash
